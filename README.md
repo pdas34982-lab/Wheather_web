@@ -26,5 +26,5 @@ where to get this api
 5. go to API explorer under tools
 6. paste your API key
 7. scroll down where you see no as a value in a box click on it and select yes then show response
-8. after it will show you a call tital under it something like these eg :"http://api.weatherapi.com/v1/current.json?key=&q=London&aqi=yes"
+8. after it will show you a call title under it something like these eg :"http://api.weatherapi.com/v1/current.json?key=&q=London&aqi=yes"
 9. copy it and paste it in your "script.js" first line removing YOUR_API_KEY_HERE while replacing with your "http://api.weatherapi.com/v1/current.json?key=&q=London&aqi=yes"
