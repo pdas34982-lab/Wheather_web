@@ -2,20 +2,20 @@
 it is made from html, css and js
 
 Have features like:-
-City Search
-GPS Search
-Current Temperature
-Feels Like Temperature
-AQI
-Humidity
-Wind Speed
-Sunrise Time
-Sunset Time
-Dynamic Weather Background
-Glassmorphism UI
-Animated Floating Effects
-Weather Icons
-7-Day Forecast
+City Search,
+GPS Search,
+Current Temperature,
+Feels Like Temperature,
+AQI,
+Humidity,
+Wind Speed,
+Sunrise Time,
+Sunset Time,
+Dynamic Weather Background,
+Glassmorphism UI,
+Animated Floating Effects,
+Weather Icons,
+7-Day Forecast.
 
 main for these project to actually work you need to add your api in the "script.js" file 1st line
 where to get this api
