@@ -1,5 +1,5 @@
-# Wheather_web
-it is made from html, css and js
+# WheatherAPP
+It is a website where you can search city it will show you weather for the following city and it was made from html, css and js
 
 Have features like:-
 City Search,
